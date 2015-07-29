@@ -2,7 +2,7 @@ ROAM Plugin for Remote Debug using PyDev Eclipse IDE
 
 It is simple plugin for use Pydev remote debug in [ROAM](https://github.com/DMS-Aus/Roam).
 
-Need update pydev path see __init__.py, example:
+Need update pydev path see __init__.py, example:  
 pydev_path = '/home/lmotta/eclipse/plugins/org.python.pydev_3.9.2.201502050007/pysrc/'
 
 This plugin is used with:
@@ -11,9 +11,9 @@ This plugin is used with:
 - PyDev (3.9.2.201502050007)
 - ROAM (2.4.1)
 
-![a](https://github.com/lmotta/doc_plugins/remote_debug_pydev_eclipse/plugin_start.png)
-![a](https://github.com/lmotta/doc_plugins/remote_debug_pydev_eclipse/plugin_running.png)
-![a](https://github.com/lmotta/doc_plugins/remote_debug_pydev_eclipse/plugin_debugging.png)
+![a](https://github.com/lmotta/doc_plugins/tree/master/remote_debug_pydev_eclipse/plugin_start.png)
+![a](https://github.com/lmotta/doc_plugins/tree/master/remote_debug_pydev_eclipse/plugin_running.png)
+![a](https://github.com/lmotta/doc_plugins/tree/master/remote_debug_pydev_eclipse/plugin_debugging.png)
 
 
 License
