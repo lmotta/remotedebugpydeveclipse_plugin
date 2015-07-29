@@ -11,10 +11,9 @@ This plugin is used with:
 - PyDev (3.9.2.201502050007)
 - ROAM (2.4.1)
 
-![a](https://github.com/lmotta/doc_plugins/tree/master/remote_debug_pydev_eclipse/plugin_start.png)
-![a](https://github.com/lmotta/doc_plugins/tree/master/remote_debug_pydev_eclipse/plugin_running.png)
-![a](https://github.com/lmotta/doc_plugins/tree/master/remote_debug_pydev_eclipse/plugin_debugging.png)
-
+![a](https://github.com/lmotta/doc_plugins/blob/master/remote_debug_pydev_eclipse/plugin_start.png)
+![a](https://github.com/lmotta/doc_plugins/blob/master/remote_debug_pydev_eclipse/plugin_running.png)
+![a](https://github.com/lmotta/doc_plugins/blob/master/remote_debug_pydev_eclipse/plugin_debugging.png)
 
 License
 --------------
